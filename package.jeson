@@ -1,0 +1,16 @@
+{
+    "name": "meu-projeto",
+    "version": "1.0.0",
+    "description": "Meu primeiro projeto",
+    "main": "index.js",
+    "scripts": {
+        "stars": "node index.js",
+        "build": "webpack --mode production"
+    },
+    "dependencies": {
+        "react": "^18.2.0"
+    },
+    "devDependencies": {
+        "eslint": "^8.0.0"
+    }
+}
